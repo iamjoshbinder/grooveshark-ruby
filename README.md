@@ -10,7 +10,7 @@ You can install Grooveshark Ruby with the following command,
 
 Before you can invoke any of the methods, make sure to require the gem,
 
-`require 'grooveshark-ruby`
+`require 'grooveshark-ruby'`
 
 Most of the commands seen here require an API key which can be requested through the website. Please refer to the API for information on which methods require a key. Start a new session with,
 
