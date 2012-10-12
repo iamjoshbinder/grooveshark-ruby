@@ -128,6 +128,6 @@ These methods are not aloud by standard API key holders. See the [API](http://de
 - getPlaylistSongs
 - renamePlaylist
 
-## Credits
+## Credits 
 
 Much of the code to post requests to the grooveshark server is based off of [a now outdated grooveshark gem by sosedoff](https://github.com/sosedoff/grooveshark/).
