@@ -1,10 +1,8 @@
 grooveshark-ruby
 
 a = Grooveshark.new(key, secret)
-puts a.authenticate('scholz.gabe', '12345')
-puts token = a.makeToken('scholz.gabe', '12345')
-puts a.authenticateToken(token)
-puts a.authenticateUser('scholz.gabe', token)
+a.authenticate('username', 'password')
+/* do things */
 a.logout
 
 Added by myself and required to create a token
