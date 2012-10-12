@@ -1,3 +1,5 @@
+WILL FIX THIS UP IN A FEW HOURS
+
 grooveshark-ruby
 
 a = Grooveshark.new(key, secret)
