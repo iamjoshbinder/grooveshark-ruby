@@ -28,7 +28,7 @@ will return a list of the day's popular songs.
 
 As always, don't forget to logout,
 
-`a.logout`
+`derp.logout`
 
 
 ## Does it work or not? A list of methods
