@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.md",
     "Rakefile",
     "VERSION",
+    "grooveshark-ruby.gemspec",
     "lib/grooveshark-ruby.rb",
     "lib/grooveshark-ruby/autocomplete.rb",
     "lib/grooveshark-ruby/autoplay.rb",
