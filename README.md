@@ -1,6 +1,6 @@
 # Grooveshark Ruby
 
-Grooveshark Ruby is an unofficial wrapper for the [Grooveshark API](http://developers.grooveshark.com/docs/public_api/v3/).
+Grooveshark Ruby is an unofficial wrapper for the [Grooveshark API v3](http://developers.grooveshark.com/docs/public_api/v3/).
 
 ## Getting started
 
