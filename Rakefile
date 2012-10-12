@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "grooveshark-ruby"
   gem.homepage = "http://github.com/garbles/grooveshark-ruby"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "An easy-to-use ruby wrapper for the Grooveshark API"
+  gem.description = "An easy-to-use ruby wrapper for the Grooveshark API"
   gem.email = "scholz.gabe@gmail.com"
   gem.authors = ["Gabriel Scholz"]
   # dependencies defined in Gemfile
