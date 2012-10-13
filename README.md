@@ -20,11 +20,7 @@ If you do not have a key or secret, simply use `''` for both of them. Again, I h
 
 `derp.authenticate('username', 'password')`
 
-From this point you can make requests to the Grooveshark server. For example,
-
-`derp.getPopularSongsToday`
-
-will return a list of the day's popular songs.
+From this point you can make requests to the Grooveshark server. For example, `derp.getPopularSongsToday` will return a list of the day's popular songs.
 
 As always, don't forget to logout,
 
